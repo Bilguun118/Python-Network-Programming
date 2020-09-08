@@ -63,6 +63,7 @@ class TunnelMonitoring(object):
 		return output_in_dic
 
 	#getting output data using panda
+	#Ipsec Used in example 
     #Python Panda сангийн тусламжтайгаар өгөгдлийг хүснэгт байдлаар харах PandaDataFrame - руу хөрвүүлэх
 	def getting_output_as_panda(self, api):
 		
